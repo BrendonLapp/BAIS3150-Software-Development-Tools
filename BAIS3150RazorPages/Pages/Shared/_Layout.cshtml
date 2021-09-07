@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"]</title>
+    @RenderSection("scriptContent", required: false) @* can tell it to render just an individual section instead *@
+</head>
+<body>
+    <div>
+        @RenderBody()
+    </div>
+    <footer>
+        @if (IsSectionDefined ("footerContet"))
+        {
+            @RenderSection("footerContent")
+        }
+    </footer>
+</body>
+
+</html>

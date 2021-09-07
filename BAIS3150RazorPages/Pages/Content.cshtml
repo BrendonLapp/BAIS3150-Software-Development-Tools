@@ -1,0 +1,22 @@
+﻿@page
+@model BAIS3150RazorPages.Pages.ContentModel
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Content Page";
+}
+
+@* section lets you have different sections in a page that can be referenced in the layout page.
+    can then compartmentalize parts of the page to only work on certain pages instead of all pages*@
+@section scriptContent
+{
+    <script type="text/javascript">
+        //any script in here so it can be used in the layout
+    </script>
+}
+
+@section footerContent
+{
+    <div>
+        <h5>footer</h5>
+    </div>
+}

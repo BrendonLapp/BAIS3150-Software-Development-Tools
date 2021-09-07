@@ -1,0 +1,40 @@
+C:\Users\b_lap\Documents\NAIT\BAIST\BAIS3150 - Software Development Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.exe
+C:\Users\b_lap\Documents\NAIT\BAIST\BAIS3150 - Software Development Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.deps.json
+C:\Users\b_lap\Documents\NAIT\BAIST\BAIS3150 - Software Development Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.runtimeconfig.json
+C:\Users\b_lap\Documents\NAIT\BAIST\BAIS3150 - Software Development Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.runtimeconfig.dev.json
+C:\Users\b_lap\Documents\NAIT\BAIST\BAIS3150 - Software Development Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.dll
+C:\Users\b_lap\Documents\NAIT\BAIST\BAIS3150 - Software Development Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.pdb
+C:\Users\b_lap\Documents\NAIT\BAIST\BAIS3150 - Software Development Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\obj\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.csprojAssemblyReference.cache
+C:\Users\b_lap\Documents\NAIT\BAIST\BAIS3150 - Software Development Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\obj\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.AssemblyInfoInputs.cache
+C:\Users\b_lap\Documents\NAIT\BAIST\BAIS3150 - Software Development Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\obj\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.AssemblyInfo.cs
+C:\Users\b_lap\Documents\NAIT\BAIST\BAIS3150 - Software Development Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\obj\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.dll
+C:\Users\b_lap\Documents\NAIT\BAIST\BAIS3150 - Software Development Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\obj\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.pdb
+C:\Users\b_lap\Documents\NAIT\BAIST\BAIS3150 - Software Development Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\obj\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.genruntimeconfig.cache
+C:\Users\b_lap\Documents\NAIT\BAIST\BAIS3150 - Software Development Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\b_lap\Documents\NAIT\BAIST\BAIS3150 - Software Development Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\b_lap\Documents\NAIT\BAIST\BAIS3150 - Software Development Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\b_lap\Documents\NAIT\BAIST\BAIS3150 - Software Development Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\b_lap\Documents\NAIT\BAIST\BAIS3150 - Software Development Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\b_lap\Documents\NAIT\BAIST\BAIS3150 - Software Development Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\b_lap\Documents\NAIT\BAIST\BAIS3150 - Software Development Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\obj\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.csproj.CoreCompileInputs.cache
+C:\Users\b_lap\Documents\NAIT\BAIST\BAIS3150 - Software Development Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\obj\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.csproj.CopyComplete
+C:\Users\b_lap\Documents\GitHub\BAIS3150-Software-Developement-Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.exe
+C:\Users\b_lap\Documents\GitHub\BAIS3150-Software-Developement-Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.deps.json
+C:\Users\b_lap\Documents\GitHub\BAIS3150-Software-Developement-Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.runtimeconfig.json
+C:\Users\b_lap\Documents\GitHub\BAIS3150-Software-Developement-Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.runtimeconfig.dev.json
+C:\Users\b_lap\Documents\GitHub\BAIS3150-Software-Developement-Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.dll
+C:\Users\b_lap\Documents\GitHub\BAIS3150-Software-Developement-Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.pdb
+C:\Users\b_lap\Documents\GitHub\BAIS3150-Software-Developement-Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\b_lap\Documents\GitHub\BAIS3150-Software-Developement-Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\b_lap\Documents\GitHub\BAIS3150-Software-Developement-Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\b_lap\Documents\GitHub\BAIS3150-Software-Developement-Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\b_lap\Documents\GitHub\BAIS3150-Software-Developement-Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\b_lap\Documents\GitHub\BAIS3150-Software-Developement-Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\b_lap\Documents\GitHub\BAIS3150-Software-Developement-Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\obj\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.csprojAssemblyReference.cache
+C:\Users\b_lap\Documents\GitHub\BAIS3150-Software-Developement-Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\obj\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.AssemblyInfoInputs.cache
+C:\Users\b_lap\Documents\GitHub\BAIS3150-Software-Developement-Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\obj\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.AssemblyInfo.cs
+C:\Users\b_lap\Documents\GitHub\BAIS3150-Software-Developement-Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\obj\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.csproj.CoreCompileInputs.cache
+C:\Users\b_lap\Documents\GitHub\BAIS3150-Software-Developement-Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\obj\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.csproj.CopyComplete
+C:\Users\b_lap\Documents\GitHub\BAIS3150-Software-Developement-Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\obj\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.dll
+C:\Users\b_lap\Documents\GitHub\BAIS3150-Software-Developement-Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\obj\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.pdb
+C:\Users\b_lap\Documents\GitHub\BAIS3150-Software-Developement-Tools\BAIS3150ConsoleNetCore31\BAIS3150ConsoleNetCore31\obj\Debug\netcoreapp3.1\BAIS3150ConsoleNetCore31.genruntimeconfig.cache

@@ -1,0 +1,27 @@
+﻿@page
+@model BAIS3150RazorPages.Pages.DynamicDisplaySampleModel
+@{
+}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Dynamic Display Sample</title>
+    </head>
+    <body>
+        <table>
+            @foreach (var item in Model.SampleObjectCollection)
+            {
+                <tr>
+                    <td>
+                        @item.FirstProperty
+                    </td>
+                    <td>
+                        @item.SecondProperty
+                    </td>
+                </tr>
+            }
+        </table>
+    </body>
+</html>

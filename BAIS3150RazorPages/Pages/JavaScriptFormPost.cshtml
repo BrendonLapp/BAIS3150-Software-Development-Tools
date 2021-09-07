@@ -1,0 +1,48 @@
+﻿@page
+@model BAIS3150RazorPages.Pages.JavaScriptFormPostModel
+@{
+}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>JavaScript Form Post</title>
+        <script type="text/javascript">
+            function IsFormValidViaOnSubmit (aForm) {
+                alert('Via OnSubmit - Input Field: ' + aForm.InputField);
+                // if valid return true otherwise return false
+                return true;
+            }
+            function IsFormValidViaButton(aForm) {
+                alert('Via Button - Input Field: ' + aForm.InputField);
+                // if valid return true otherwise return false
+                //return true;
+                aForm.submit();
+            }
+        </script>
+    </head>
+    <body>
+        <form name="SampleForm" method="post" onsubmit="return IsFormValidViaOnSubmit(window.document.SampleForm);" action="~/TestPost">
+            <table>
+                <tr>
+                    <td>
+                        Input Field
+                    </td>
+                    <td>
+                        <input type="text" name="InputField"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="submit" name="Submit" value="Submit"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="button" value="Button" onclick="IsFormValidViaButton(window.document.SampleForm);"/>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>

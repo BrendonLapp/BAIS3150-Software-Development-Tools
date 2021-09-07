@@ -1,0 +1,27 @@
+﻿@addTagHelper*, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"]</title>
+</head>
+<body>
+    <nav>
+        <a href="/FindAProgram">Find A program</a>
+        <a href="/CreateAProgram">Create A Program</a>
+        <a href="/EnrollAStudent">Enroll A Student</a>
+        <a href="/FindAStudent">Find A Student</a>
+    </nav>
+    <div>
+        @RenderBody()
+    </div>
+    <footer>
+        <div>
+            <h1>This is in the footer</h1>
+        </div>
+    </footer>
+
+</body>
+
+</html>

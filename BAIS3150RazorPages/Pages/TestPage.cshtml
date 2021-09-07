@@ -1,0 +1,48 @@
+﻿@page
+@model BAIS3150RazorPages.Pages.TestPageModel
+@{
+}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Test Page</title>
+    </head>
+    <body>
+        <header>
+            Header Areaa <br />
+            <hr />
+        </header>
+        <nav>
+            Nav Area <br />
+            <hr />
+        </nav>
+        <main>
+            Main Area <br />
+
+            <div>
+                <form name="TestPageForm" method="post">
+                    <table border="1">
+                        <tr>
+                            <td>Field</td>
+                            <td>
+                                <input type="text" name="field" value="@Model.Field"/>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="2">
+                                <input type="submit" name="Submit"/>
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+                @Model.Message
+            </div>
+            <hr />
+        </main>
+        <footer>
+            Footer Area <br />
+            <hr />
+        </footer>
+    </body>
+</html>
